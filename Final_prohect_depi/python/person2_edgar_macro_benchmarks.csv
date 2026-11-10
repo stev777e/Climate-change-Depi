@@ -1,0 +1,2073 @@
+iso_code,Country,year,emissions_mtco2eq,data_type,Substance,Sector
+AIR,International Aviation,1970,172.47606465851,total,,
+SEA,International Shipping,1970,375.86604152341,total,,
+EU27,EU27,1970,4577.0129067366,total,,
+AIR,International Aviation,1971,172.46349570902,total,,
+SEA,International Shipping,1971,375.86604152341,total,,
+EU27,EU27,1971,4600.6806265112,total,,
+AIR,International Aviation,1972,182.45571797135,total,,
+SEA,International Shipping,1972,393.80647283484,total,,
+EU27,EU27,1972,4751.4566695913,total,,
+AIR,International Aviation,1973,190.29471051972,total,,
+SEA,International Shipping,1973,416.82843406184,total,,
+EU27,EU27,1973,4970.1357331328,total,,
+AIR,International Aviation,1974,183.15785626422,total,,
+SEA,International Shipping,1974,390.04586266404,total,,
+EU27,EU27,1974,4930.9736063005,total,,
+AIR,International Aviation,1975,177.1632339745,total,,
+SEA,International Shipping,1975,363.61575048269,total,,
+EU27,EU27,1975,4844.5346522127,total,,
+AIR,International Aviation,1976,177.47873393619,total,,
+SEA,International Shipping,1976,375.80881587081,total,,
+EU27,EU27,1976,5108.7022842346,total,,
+AIR,International Aviation,1977,193.59098850661,total,,
+SEA,International Shipping,1977,375.75020324539,total,,
+EU27,EU27,1977,5097.5891593774,total,,
+AIR,International Aviation,1978,200.74786329989,total,,
+SEA,International Shipping,1978,377.5483538595,total,,
+EU27,EU27,1978,5267.5513113414,total,,
+AIR,International Aviation,1979,207.53095239183,total,,
+SEA,International Shipping,1979,389.53664390968,total,,
+EU27,EU27,1979,5425.8062935644,total,,
+AIR,International Aviation,1980,206.39170678449,total,,
+SEA,International Shipping,1980,380.51194681103,total,,
+EU27,EU27,1980,5336.7109450789,total,,
+AIR,International Aviation,1981,205.57303771713,total,,
+SEA,International Shipping,1981,353.34307300497,total,,
+EU27,EU27,1981,5131.2929129403,total,,
+AIR,International Aviation,1982,213.05735918157,total,,
+SEA,International Shipping,1982,318.32518931022,total,,
+EU27,EU27,1982,5046.7083307069,total,,
+AIR,International Aviation,1983,214.96504474707,total,,
+SEA,International Shipping,1983,298.31562331259,total,,
+EU27,EU27,1983,5026.0473910763,total,,
+AIR,International Aviation,1984,222.98379509822,total,,
+SEA,International Shipping,1984,302.36137625315,total,,
+EU27,EU27,1984,5063.7300138583,total,,
+AIR,International Aviation,1985,229.08342189495,total,,
+SEA,International Shipping,1985,325.3333544713,total,,
+EU27,EU27,1985,5067.5486342972,total,,
+AIR,International Aviation,1986,251.59933029293,total,,
+SEA,International Shipping,1986,346.12615974445,total,,
+EU27,EU27,1986,5064.5985892786,total,,
+AIR,International Aviation,1987,265.98181602431,total,,
+SEA,International Shipping,1987,342.58811309327,total,,
+EU27,EU27,1987,5099.466627414,total,,
+AIR,International Aviation,1988,280.99789962159,total,,
+SEA,International Shipping,1988,359.55322493491,total,,
+EU27,EU27,1988,5079.7420404774,total,,
+AIR,International Aviation,1989,295.0954856148,total,,
+SEA,International Shipping,1989,359.7414508467,total,,
+EU27,EU27,1989,5068.824957601,total,,
+AIR,International Aviation,1990,261.47948534736,total,,
+SEA,International Shipping,1990,395.47689908942,total,,
+EU27,EU27,1990,4859.3179074195,total,,
+AIR,International Aviation,1991,254.27365983594,total,,
+SEA,International Shipping,1991,410.83949925962,total,,
+EU27,EU27,1991,4774.3881883135,total,,
+AIR,International Aviation,1992,262.43273213288,total,,
+SEA,International Shipping,1992,441.0619241942,total,,
+EU27,EU27,1992,4599.3931828937,total,,
+AIR,International Aviation,1993,267.45182167584,total,,
+SEA,International Shipping,1993,428.05061805741,total,,
+EU27,EU27,1993,4512.9142827204,total,,
+AIR,International Aviation,1994,281.01972495974,total,,
+SEA,International Shipping,1994,440.98222490457,total,,
+EU27,EU27,1994,4498.7772391082,total,,
+AIR,International Aviation,1995,292.01660397903,total,,
+SEA,International Shipping,1995,457.23593405302,total,,
+EU27,EU27,1995,4549.7693900221,total,,
+AIR,International Aviation,1996,304.15924072407,total,,
+SEA,International Shipping,1996,466.54628962277,total,,
+EU27,EU27,1996,4659.1894284531,total,,
+AIR,International Aviation,1997,318.88988787788,total,,
+SEA,International Shipping,1997,478.42160289909,total,,
+EU27,EU27,1997,4574.9892669421,total,,
+AIR,International Aviation,1998,329.34066529908,total,,
+SEA,International Shipping,1998,493.12061643943,total,,
+EU27,EU27,1998,4530.0766522451,total,,
+AIR,International Aviation,1999,343.54091691401,total,,
+SEA,International Shipping,1999,521.39338222233,total,,
+EU27,EU27,1999,4448.4072168335,total,,
+AIR,International Aviation,2000,355.98392282642,total,,
+SEA,International Shipping,2000,535.32573939832,total,,
+EU27,EU27,2000,4461.0184209799,total,,
+AIR,International Aviation,2001,349.70634369182,total,,
+SEA,International Shipping,2001,508.13899997759,total,,
+EU27,EU27,2001,4497.5983812299,total,,
+AIR,International Aviation,2002,370.41124388843,total,,
+SEA,International Shipping,2002,526.76376925064,total,,
+EU27,EU27,2002,4481.3017196049,total,,
+AIR,International Aviation,2003,368.28393276333,total,,
+SEA,International Shipping,2003,535.79224262032,total,,
+EU27,EU27,2003,4576.5985548901,total,,
+AIR,International Aviation,2004,404.21428236652,total,,
+SEA,International Shipping,2004,588.49082457974,total,,
+EU27,EU27,2004,4576.6683467982,total,,
+AIR,International Aviation,2005,430.41389083921,total,,
+SEA,International Shipping,2005,608.89042838184,total,,
+EU27,EU27,2005,4543.8997794207,total,,
+AIR,International Aviation,2006,445.65394870176,total,,
+SEA,International Shipping,2006,647.64027938479,total,,
+EU27,EU27,2006,4551.7840193678,total,,
+AIR,International Aviation,2007,460.54330850295,total,,
+SEA,International Shipping,2007,684.8480512821,total,,
+EU27,EU27,2007,4519.6392133869,total,,
+AIR,International Aviation,2008,467.88415631481,total,,
+SEA,International Shipping,2008,685.94372938172,total,,
+EU27,EU27,2008,4414.3596463108,total,,
+AIR,International Aviation,2009,445.57298214107,total,,
+SEA,International Shipping,2009,652.62631980375,total,,
+EU27,EU27,2009,4121.1713657966,total,,
+AIR,International Aviation,2010,471.06596600449,total,,
+SEA,International Shipping,2010,701.19175154505,total,,
+EU27,EU27,2010,4227.330400145,total,,
+AIR,International Aviation,2011,483.73545753833,total,,
+SEA,International Shipping,2011,702.86767521041,total,,
+EU27,EU27,2011,4119.4546730543,total,,
+AIR,International Aviation,2012,474.76529919286,total,,
+SEA,International Shipping,2012,656.03374290868,total,,
+EU27,EU27,2012,4053.941414727,total,,
+AIR,International Aviation,2013,484.26110631502,total,,
+SEA,International Shipping,2013,653.31355451643,total,,
+EU27,EU27,2013,3963.2441517181,total,,
+AIR,International Aviation,2014,499.4497007338,total,,
+SEA,International Shipping,2014,674.57927453325,total,,
+EU27,EU27,2014,3816.8653389954,total,,
+AIR,International Aviation,2015,529.80917150306,total,,
+SEA,International Shipping,2015,699.7279261175,total,,
+EU27,EU27,2015,3872.2632911943,total,,
+AIR,International Aviation,2016,554.00788767193,total,,
+SEA,International Shipping,2016,720.89733660156,total,,
+EU27,EU27,2016,3879.8964931688,total,,
+AIR,International Aviation,2017,582.87510001626,total,,
+SEA,International Shipping,2017,748.91867574528,total,,
+EU27,EU27,2017,3900.3923010434,total,,
+AIR,International Aviation,2018,608.91099276983,total,,
+SEA,International Shipping,2018,752.1801877424,total,,
+EU27,EU27,2018,3817.2935311791,total,,
+AIR,International Aviation,2019,620.31074320917,total,,
+SEA,International Shipping,2019,734.42465612392,total,,
+EU27,EU27,2019,3663.9496522009,total,,
+AIR,International Aviation,2020,292.01022250639,total,,
+SEA,International Shipping,2020,673.89066166829,total,,
+EU27,EU27,2020,3374.5205053983,total,,
+AIR,International Aviation,2021,324.83723464816,total,,
+SEA,International Shipping,2021,696.60752628861,total,,
+EU27,EU27,2021,3549.3837938527,total,,
+AIR,International Aviation,2022,459.92727521259,total,,
+SEA,International Shipping,2022,700.24683596086,total,,
+EU27,EU27,2022,3460.6170217671,total,,
+AIR,International Aviation,2023,560.34791884279,total,,
+SEA,International Shipping,2023,700.28659872716,total,,
+EU27,EU27,2023,3204.8287431714,total,,
+AIR,International Aviation,2024,602.98308658084,total,,
+SEA,International Shipping,2024,739.43648834783,total,,
+EU27,EU27,2024,3134.669215571,total,,
+AIR,International Aviation,2025,633.43677782228,total,,
+SEA,International Shipping,2025,753.89410057768,total,,
+EU27,EU27,2025,3127.1536314459,total,,
+AIR,International Aviation,1970,169.89847138281,sector,CO2,Transport
+AIR,International Aviation,1970,0.033280551948591,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1970,1.2844061142679,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1970,1.2599066094824,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1971,169.89847138281,sector,CO2,Transport
+AIR,International Aviation,1971,0.033280551948591,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1971,1.2718371647702,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1971,1.2599066094824,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1972,179.75549117891,sector,CO2,Transport
+AIR,International Aviation,1972,0.035207290540319,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1972,1.3321720743025,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1972,1.3328474275978,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1973,187.49223936758,sector,CO2,Transport
+AIR,International Aviation,1973,0.036721243030539,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1973,1.3755885658155,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1973,1.390161343299,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1974,180.47394391348,sector,CO2,Transport
+AIR,International Aviation,1974,0.035342644998962,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1974,1.3105981450673,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1974,1.337971560675,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1975,174.57990654727,sector,CO2,Transport
+AIR,International Aviation,1975,0.034188135186353,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1975,1.2548741742743,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1975,1.2942651177691,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1976,174.90370269297,sector,CO2,Transport
+AIR,International Aviation,1976,0.034249524609744,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1976,1.2441925726667,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1976,1.2965891459403,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1977,190.79616217832,sector,CO2,Transport
+AIR,International Aviation,1977,0.037360606399421,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1977,1.3430999081974,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1977,1.4143658136924,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1978,197.86397973457,sector,CO2,Transport
+AIR,International Aviation,1978,0.038746718553445,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1978,1.3782967872385,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1978,1.4668400595233,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1979,204.56459216836,sector,CO2,Transport
+AIR,International Aviation,1979,0.040058104236547,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1979,1.4098167445594,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1979,1.5164853746693,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1980,203.45642286621,sector,CO2,Transport
+AIR,International Aviation,1980,0.039841640481234,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1980,1.3871516024354,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1980,1.508290675361,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1981,202.66424105547,sector,CO2,Transport
+AIR,International Aviation,1981,0.039685555737324,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1981,1.3667293530182,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1981,1.502381752913,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1982,210.05794610605,sector,CO2,Transport
+AIR,International Aviation,1982,0.041133808344104,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1982,1.4010708084296,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1982,1.5572084587411,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1983,211.95427616563,sector,CO2,Transport
+AIR,International Aviation,1983,0.041504501493787,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1983,1.3980222376872,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1983,1.5712418422648,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1984,219.87677377793,sector,CO2,Transport
+AIR,International Aviation,1984,0.043055537826335,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1984,1.4340061361803,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1984,1.6299596462827,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1985,225.90779814004,sector,CO2,Transport
+AIR,International Aviation,1985,0.044237714461757,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1985,1.4566725643961,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1985,1.6747134760522,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1986,248.12962327197,sector,CO2,Transport
+AIR,International Aviation,1986,0.048590046955269,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1986,1.581636624984,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1986,1.8394803490209,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1987,262.33301078827,sector,CO2,Transport
+AIR,International Aviation,1987,0.05136984074879,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1987,1.6527199955214,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1987,1.9447153997756,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1988,277.16342576759,sector,CO2,Transport
+AIR,International Aviation,1988,0.054272348958081,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1988,1.7256054373437,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1988,2.0545960676988,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1989,291.08989039041,sector,CO2,Transport
+AIR,International Aviation,1989,0.056999048882145,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1989,1.7907750392554,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1989,2.1578211362527,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1990,257.9488943383,sector,CO2,Transport
+AIR,International Aviation,1990,0.050511261239488,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1990,1.5678677151843,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1990,1.9122120326378,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1991,250.85870358634,sector,CO2,Transport
+AIR,International Aviation,1991,0.049122320991195,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1991,1.5062032053692,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1991,1.8596307232381,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1992,258.92708484612,sector,CO2,Transport
+AIR,International Aviation,1992,0.050702304935457,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1992,1.5355005807059,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1992,1.919444401128,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1993,263.89839798291,sector,CO2,Transport
+AIR,International Aviation,1993,0.051675559311194,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1993,1.5454591025496,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1993,1.9562890310666,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1994,277.30622850263,sector,CO2,Transport
+AIR,International Aviation,1994,0.054301648492061,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1994,1.6034895442706,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1994,2.0557052643423,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1995,288.17877668409,sector,CO2,Transport
+AIR,International Aviation,1995,0.056431355331148,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1995,1.645066059218,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1995,2.1363298803935,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1996,300.16188599622,sector,CO2,Transport
+AIR,International Aviation,1996,0.058777044326444,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1996,1.713446719739,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1996,2.2251309637868,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1997,314.69895423505,sector,CO2,Transport
+AIR,International Aviation,1997,0.061623425806378,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1997,1.7964233829212,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1997,2.3328868340985,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1998,325.01236658643,sector,CO2,Transport
+AIR,International Aviation,1998,0.063643239745185,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1998,1.8553042539754,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1998,2.4093512189249,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,1999,339.02600701612,sector,CO2,Transport
+AIR,International Aviation,1999,0.066387167831122,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,1999,1.9352942335997,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,1999,2.5132284964639,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2000,351.30547275294,sector,CO2,Transport
+AIR,International Aviation,2000,0.068791860134845,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2000,2.0053949368082,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2000,2.6042632765335,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2001,345.11042309612,sector,CO2,Transport
+AIR,International Aviation,2001,0.067578347923989,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2001,1.9700190763701,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2001,2.5583231714082,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2002,365.54321917489,sector,CO2,Transport
+AIR,International Aviation,2002,0.071579362816109,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2002,2.0866551869655,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2002,2.7097901637527,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2003,363.4440485308,sector,CO2,Transport
+AIR,International Aviation,2003,0.07116558560295,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2003,2.0745929062449,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2003,2.694125740683,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2004,398.90220414593,sector,CO2,Transport
+AIR,International Aviation,2004,0.078108718963864,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2004,2.2769965694148,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2004,2.9569729322034,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2005,424.75754316828,sector,CO2,Transport
+AIR,International Aviation,2005,0.083170851829372,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2005,2.4245659998393,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2005,3.1486108192549,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2006,439.79733196269,sector,CO2,Transport
+AIR,International Aviation,2006,0.086115605221781,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2006,2.5104103647352,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2006,3.2600907691103,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2007,454.49103060602,sector,CO2,Transport
+AIR,International Aviation,2007,0.088992603970148,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2007,2.5942795712353,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2007,3.369005721727,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2008,461.73541204799,sector,CO2,Transport
+AIR,International Aviation,2008,0.090411044034867,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2008,2.6356294128937,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2008,3.4227038098914,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2009,439.71744116631,sector,CO2,Transport
+AIR,International Aviation,2009,0.08609978719952,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2009,2.5099492435838,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2009,3.2594919439818,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2010,464.87541445732,sector,CO2,Transport
+AIR,International Aviation,2010,0.091025777661917,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2010,2.6535499008809,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2010,3.4459758686297,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2011,477.37842198549,sector,CO2,Transport
+AIR,International Aviation,2011,0.093473755999339,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2011,2.7249124625803,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2011,3.5386493342607,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2012,468.52614117356,sector,CO2,Transport
+AIR,International Aviation,2012,0.091740486503466,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2012,2.6743848294513,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2012,3.4730327033455,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2013,477.89715891656,sector,CO2,Transport
+AIR,International Aviation,2013,0.093575387674214,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2013,2.7278751916853,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2013,3.5424968190953,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2014,492.88613889573,sector,CO2,Transport
+AIR,International Aviation,2014,0.096510515418528,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2014,2.8134389532378,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2014,3.6536123694158,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2015,522.84657373475,sector,CO2,Transport
+AIR,International Aviation,2015,0.10237793378802,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2015,2.984483769692,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2015,3.875736064832,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2016,546.72947213385,sector,CO2,Transport
+AIR,International Aviation,2016,0.10750994746738,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2016,3.1207039107795,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2016,4.0502016798365,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2017,575.21860005696,sector,CO2,Transport
+AIR,International Aviation,2017,0.11336402179524,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2017,3.2832788924882,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2017,4.2598570450124,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2018,600.91299985922,sector,CO2,Transport
+AIR,International Aviation,2018,0.1185371578174,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2018,3.4299213895219,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2018,4.4495343632735,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2019,612.16054048721,sector,CO2,Transport
+AIR,International Aviation,2019,0.12021854281862,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2019,3.4942003066245,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2019,4.535783872512,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2020,288.17315633031,sector,CO2,Transport
+AIR,International Aviation,2020,0.056518703741756,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2020,1.6449106346895,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2020,2.1356368376523,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2021,320.56843063601,sector,CO2,Transport
+AIR,International Aviation,2021,0.062942846346076,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2021,1.8301044987685,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2021,2.3757566670373,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2022,453.87979187604,sector,CO2,Transport
+AIR,International Aviation,2022,0.088922105022055,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2022,2.5922243985468,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2022,3.3663368329778,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2023,552.97568134819,sector,CO2,Transport
+AIR,International Aviation,2023,0.10840127071446,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2023,3.1600738325565,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2023,4.1037623913332,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2024,595.04991797251,sector,CO2,Transport
+AIR,International Aviation,2024,0.11664919348622,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2024,3.4005142328597,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2024,4.4160051819782,sector,GWP_100_AR5_N2O,Transport
+AIR,International Aviation,2025,625.10294413273,sector,CO2,Transport
+AIR,International Aviation,2025,0.12254056689461,sector,GWP_100_AR5_CH4,Transport
+AIR,International Aviation,2025,3.5722573759335,sector,GWP_100_AR5_N2O,Processes
+AIR,International Aviation,2025,4.6390357467246,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1970,14.76134854359,sector,CO2,Agriculture
+EU27,EU27,1970,818.41045076613,sector,CO2,Buildings
+EU27,EU27,1970,236.8560366658,sector,CO2,Fuel Production
+EU27,EU27,1970,944.11149273493,sector,CO2,Industrial Combustion
+EU27,EU27,1970,873.5067372893,sector,CO2,Power Industry
+EU27,EU27,1970,253.65386450055,sector,CO2,Processes
+EU27,EU27,1970,363.64862304703,sector,CO2,Transport
+EU27,EU27,1970,1.4659595894909,sector,CO2,Waste
+EU27,EU27,1970,295.94309527035,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1970,30.787807191401,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1970,230.42828980508,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1970,1.2771004630542,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1970,0.35656499348262,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1970,1.2254911601588,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1970,3.3336075575683,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1970,160.49137877615,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1970,21.387254554345,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1970,160.42715161833,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1970,6.3926062560189,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1970,0.19227064577335,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1970,2.2208780756541,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1970,4.3346816161035,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1970,131.75463760929,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1970,4.5792954355256,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1970,15.466282571529,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1971,14.76134854359,sector,CO2,Agriculture
+EU27,EU27,1971,817.047841505,sector,CO2,Buildings
+EU27,EU27,1971,237.85003295532,sector,CO2,Fuel Production
+EU27,EU27,1971,895.40531722507,sector,CO2,Industrial Combustion
+EU27,EU27,1971,916.20692920712,sector,CO2,Power Industry
+EU27,EU27,1971,254.72229377169,sector,CO2,Processes
+EU27,EU27,1971,380.89171045034,sector,CO2,Transport
+EU27,EU27,1971,1.489511518695,sector,CO2,Waste
+EU27,EU27,1971,297.59268215122,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1971,28.203015574107,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1971,229.193856531,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1971,1.1777582695611,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1971,0.3813890397369,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1971,1.1585760221588,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1971,3.5747115770665,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1971,166.63052608363,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1971,23.832219881483,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1971,162.29229053937,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1971,6.3019423286252,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1971,0.22108246121343,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1971,2.060759419038,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1971,4.3558092590567,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1971,135.05294950446,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1971,4.7236444139677,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1971,15.55242827866,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1972,14.76134854359,sector,CO2,Agriculture
+EU27,EU27,1972,859.50819425136,sector,CO2,Buildings
+EU27,EU27,1972,241.9090030875,sector,CO2,Fuel Production
+EU27,EU27,1972,896.14582925816,sector,CO2,Industrial Combustion
+EU27,EU27,1972,969.84878950786,sector,CO2,Power Industry
+EU27,EU27,1972,278.46524547533,sector,CO2,Processes
+EU27,EU27,1972,401.64941804705,sector,CO2,Transport
+EU27,EU27,1972,1.5140754081186,sector,CO2,Waste
+EU27,EU27,1972,301.0115398735,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1972,27.037331537869,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1972,225.65357461133,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1972,1.1713152448088,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1972,0.41300304914806,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1972,1.271575257683,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1972,3.8405794535959,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1972,168.21690944144,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1972,25.359268771821,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1972,163.18493628285,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1972,6.5655843386912,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1972,0.21502329247501,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1972,2.0269757620411,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1972,4.4951759280312,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1972,136.59405555242,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1972,4.9511145753948,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1972,15.646803039272,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1973,14.76134854359,sector,CO2,Agriculture
+EU27,EU27,1973,902.47326679768,sector,CO2,Buildings
+EU27,EU27,1973,250.80058322814,sector,CO2,Fuel Production
+EU27,EU27,1973,937.32512518111,sector,CO2,Industrial Combustion
+EU27,EU27,1973,1040.7498621102,sector,CO2,Power Industry
+EU27,EU27,1973,282.20213828756,sector,CO2,Processes
+EU27,EU27,1973,426.8424616006,sector,CO2,Transport
+EU27,EU27,1973,1.5390513475255,sector,CO2,Waste
+EU27,EU27,1973,310.29317971977,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1973,26.1189736224,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1973,223.40391962017,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1973,1.2262592645085,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1973,0.44442035673125,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1973,1.3042632880382,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1973,4.0884757138593,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1973,169.73343777231,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1973,27.602503693759,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1973,165.79395459742,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1973,6.9161903003301,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1973,0.22272916850915,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1973,2.1057756181259,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1973,4.6664905644157,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1973,148.52975155295,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1973,5.2513172718592,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1973,15.740253911208,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1974,14.431366537238,sector,CO2,Agriculture
+EU27,EU27,1974,832.05203611403,sector,CO2,Buildings
+EU27,EU27,1974,238.24650308272,sector,CO2,Fuel Production
+EU27,EU27,1974,940.38547314429,sector,CO2,Industrial Combustion
+EU27,EU27,1974,1075.9869410726,sector,CO2,Power Industry
+EU27,EU27,1974,278.58706461632,sector,CO2,Processes
+EU27,EU27,1974,416.50896522569,sector,CO2,Transport
+EU27,EU27,1974,1.5634986101702,sector,CO2,Waste
+EU27,EU27,1974,318.62656796381,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1974,25.737875723799,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1974,223.51309816409,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1974,1.2411059489216,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1974,0.47703660732502,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1974,1.194895125212,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1974,3.944590188194,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1974,170.56904517524,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1974,31.611629469497,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1974,167.74761709767,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1974,6.6132836776951,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1974,0.22880190977097,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1974,2.0951255105072,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1974,4.7434083184879,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1974,153.86153512896,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1974,5.1754134578247,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1974,15.830728430518,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1975,15.831390685966,sector,CO2,Agriculture
+EU27,EU27,1975,840.95121882397,sector,CO2,Buildings
+EU27,EU27,1975,229.68562228601,sector,CO2,Fuel Production
+EU27,EU27,1975,877.32051757767,sector,CO2,Industrial Combustion
+EU27,EU27,1975,1040.401858053,sector,CO2,Power Industry
+EU27,EU27,1975,266.85252030814,sector,CO2,Processes
+EU27,EU27,1975,435.35822236068,sector,CO2,Transport
+EU27,EU27,1975,1.5867826376051,sector,CO2,Waste
+EU27,EU27,1975,321.06363122225,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1975,24.67208404742,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1975,226.94519447788,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1975,1.1844105417778,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1975,0.4754882801185,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1975,1.0685309870238,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1975,4.2501995533751,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1975,171.20974952685,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1975,32.266699823935,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1975,172.23316751917,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1975,6.7250735167561,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1975,0.22940293142818,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1975,2.0016227403596,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1975,4.6961053573512,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1975,146.2133326479,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1975,5.395020602367,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1975,15.916805703657,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1976,15.890023096737,sector,CO2,Agriculture
+EU27,EU27,1976,880.47293805478,sector,CO2,Buildings
+EU27,EU27,1976,238.94320469071,sector,CO2,Fuel Production
+EU27,EU27,1976,910.47328558913,sector,CO2,Industrial Combustion
+EU27,EU27,1976,1173.9176238985,sector,CO2,Power Industry
+EU27,EU27,1976,289.05518904963,sector,CO2,Processes
+EU27,EU27,1976,457.96153309597,sector,CO2,Transport
+EU27,EU27,1976,1.6038303817473,sector,CO2,Waste
+EU27,EU27,1976,320.81645200331,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1976,24.893906239296,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1976,228.09600263954,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1976,1.2007512574107,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1976,0.51394076830549,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1976,1.1658772157413,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1976,4.3996224051439,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1976,173.42036305193,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1976,33.59843608246,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1976,174.11316161228,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1976,6.8908373461728,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1976,0.25063754975587,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1976,2.0059385544505,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1976,5.1986990080223,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1976,142.26471495745,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1976,5.5571004877632,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1976,15.998215198331,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1977,16.048945092191,sector,CO2,Agriculture
+EU27,EU27,1977,863.26403659432,sector,CO2,Buildings
+EU27,EU27,1977,231.46268407081,sector,CO2,Fuel Production
+EU27,EU27,1977,914.16489264534,sector,CO2,Industrial Combustion
+EU27,EU27,1977,1161.3584065656,sector,CO2,Power Industry
+EU27,EU27,1977,288.01965635654,sector,CO2,Processes
+EU27,EU27,1977,472.74219030636,sector,CO2,Transport
+EU27,EU27,1977,1.6196512467581,sector,CO2,Waste
+EU27,EU27,1977,324.86714394927,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1977,24.461919704735,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1977,227.09791683974,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1977,1.205763376308,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1977,0.51568597381552,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1977,1.0673038496239,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1977,4.5559943766116,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1977,174.33860726969,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1977,34.922771272836,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1977,177.43747379948,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1977,7.0478962075692,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1977,0.26424304314203,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1977,2.0007544910542,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1977,5.2161194894725,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1977,142.10437091044,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1977,5.7294216301492,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1977,16.075310315484,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1978,18.025680480278,sector,CO2,Agriculture
+EU27,EU27,1978,903.1146011519,sector,CO2,Buildings
+EU27,EU27,1978,230.97774306449,sector,CO2,Fuel Production
+EU27,EU27,1978,919.21520189841,sector,CO2,Industrial Combustion
+EU27,EU27,1978,1230.8670202835,sector,CO2,Power Industry
+EU27,EU27,1978,293.67494496067,sector,CO2,Processes
+EU27,EU27,1978,497.27783484917,sector,CO2,Transport
+EU27,EU27,1978,1.6346234374238,sector,CO2,Waste
+EU27,EU27,1978,330.13190140443,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1978,24.713888465154,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1978,230.9987334608,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1978,1.2118388984973,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1978,0.54754568916446,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1978,1.069851970711,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1978,4.8175436072572,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1978,175.95975694603,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1978,36.786597859436,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1978,184.50283722022,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1978,7.3798347309563,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1978,0.26957701208349,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1978,1.9990591466049,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1978,5.9040188513537,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1978,144.33036612501,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1978,5.9926978018363,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1978,16.147612026016,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1979,18.353275110511,sector,CO2,Agriculture
+EU27,EU27,1979,935.96786791337,sector,CO2,Buildings
+EU27,EU27,1979,237.52764375529,sector,CO2,Fuel Production
+EU27,EU27,1979,949.56252974296,sector,CO2,Industrial Combustion
+EU27,EU27,1979,1284.1924504341,sector,CO2,Power Industry
+EU27,EU27,1979,299.33985360363,sector,CO2,Processes
+EU27,EU27,1979,513.48936300792,sector,CO2,Transport
+EU27,EU27,1979,1.6493258135463,sector,CO2,Waste
+EU27,EU27,1979,333.77558777345,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1979,26.257683596382,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1979,234.61490058225,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1979,1.2523562146541,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1979,0.56814673087465,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1979,1.1434754501589,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1979,4.9410799600479,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1979,177.0845669073,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1979,37.535465618112,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1979,187.36978663499,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1979,7.6566643376297,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1979,0.26342868422931,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1979,2.0671232207395,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1979,6.0113995210987,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1979,142.87238911042,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1979,6.0954997109624,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1979,16.214430129778,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1980,17.893521178769,sector,CO2,Agriculture
+EU27,EU27,1980,882.49455870854,sector,CO2,Buildings
+EU27,EU27,1980,242.57477483153,sector,CO2,Fuel Production
+EU27,EU27,1980,905.31562961114,sector,CO2,Industrial Combustion
+EU27,EU27,1980,1311.3014543048,sector,CO2,Power Industry
+EU27,EU27,1980,285.40639940141,sector,CO2,Processes
+EU27,EU27,1980,511.95493933607,sector,CO2,Transport
+EU27,EU27,1980,1.6642143201749,sector,CO2,Waste
+EU27,EU27,1980,335.99897838764,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1980,25.46785163499,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1980,225.63645970928,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1980,1.2343855823142,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1980,0.59814276992524,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1980,0.97245122029519,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1980,4.9383920134577,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1980,177.50311576764,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1980,40.041590910812,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1980,188.90226837223,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1980,7.9356888270458,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1980,0.25399958728591,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1980,2.00891126913,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1980,6.2802888130366,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1980,138.05992954508,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1980,5.9975503939096,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1980,16.275448582397,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1981,18.260891102799,sector,CO2,Agriculture
+EU27,EU27,1981,836.40403596138,sector,CO2,Buildings
+EU27,EU27,1981,227.52542734799,sector,CO2,Fuel Production
+EU27,EU27,1981,843.13920043267,sector,CO2,Industrial Combustion
+EU27,EU27,1981,1278.2309588018,sector,CO2,Power Industry
+EU27,EU27,1981,272.23806756621,sector,CO2,Processes
+EU27,EU27,1981,502.33986996738,sector,CO2,Transport
+EU27,EU27,1981,1.6779064171324,sector,CO2,Waste
+EU27,EU27,1981,334.09681122382,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1981,25.689370245112,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1981,206.77740091054,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1981,1.180140949036,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1981,0.59004057607133,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1981,0.93311862867599,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1981,4.8433165165702,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1981,178.38021387029,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1981,39.985851417512,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1981,187.44747831095,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1981,7.6192243667741,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1981,0.23019398403948,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1981,1.9076306918005,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1981,6.2771655733739,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1981,133.30061301568,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1981,5.8885812971134,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1981,16.329403765549,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1982,18.010035733163,sector,CO2,Agriculture
+EU27,EU27,1982,807.13721621426,sector,CO2,Buildings
+EU27,EU27,1982,215.92403741841,sector,CO2,Fuel Production
+EU27,EU27,1982,793.55215572184,sector,CO2,Industrial Combustion
+EU27,EU27,1982,1282.6668232474,sector,CO2,Power Industry
+EU27,EU27,1982,262.25195441162,sector,CO2,Processes
+EU27,EU27,1982,503.17209020858,sector,CO2,Transport
+EU27,EU27,1982,1.6917535040014,sector,CO2,Waste
+EU27,EU27,1982,337.31598944234,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1982,26.047922434541,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1982,217.93333134546,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1982,1.146850061817,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1982,0.59237605165941,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1982,0.84579926593128,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1982,4.857689516077,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1982,178.15412749396,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1982,38.893649429595,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1982,190.45972149241,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1982,7.5251015929613,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1982,0.20757387133994,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1982,1.8412967746876,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1982,6.8153505688974,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1982,127.4294014368,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1982,5.8584765413325,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1982,16.377606927733,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1983,18.64905483438,sector,CO2,Agriculture
+EU27,EU27,1983,784.50962429682,sector,CO2,Buildings
+EU27,EU27,1983,221.1437608422,sector,CO2,Fuel Production
+EU27,EU27,1983,788.52434942031,sector,CO2,Industrial Combustion
+EU27,EU27,1983,1277.366759054,sector,CO2,Power Industry
+EU27,EU27,1983,263.88509269321,sector,CO2,Processes
+EU27,EU27,1983,508.2940773933,sector,CO2,Transport
+EU27,EU27,1983,1.7057964018707,sector,CO2,Waste
+EU27,EU27,1983,335.84003704536,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1983,25.99523829397,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1983,211.2895803649,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1983,1.1570779833923,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1983,0.5856973394386,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1983,0.80916613686653,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1983,4.8582178159353,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1983,179.6815749315,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1983,38.979381973913,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1983,190.6772128391,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1983,7.4711135557376,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1983,0.19911708326654,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1983,1.8622953603174,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1983,6.878461715225,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1983,133.39744221855,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1983,5.865284930079,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1983,16.421976552687,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1984,17.803704143053,sector,CO2,Agriculture
+EU27,EU27,1984,797.419189349,sector,CO2,Buildings
+EU27,EU27,1984,219.57441662505,sector,CO2,Fuel Production
+EU27,EU27,1984,796.34840357587,sector,CO2,Industrial Combustion
+EU27,EU27,1984,1277.5518298259,sector,CO2,Power Industry
+EU27,EU27,1984,265.57652939148,sector,CO2,Processes
+EU27,EU27,1984,519.839463283,sector,CO2,Transport
+EU27,EU27,1984,1.7200499305919,sector,CO2,Waste
+EU27,EU27,1984,342.21209717403,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1984,24.880049292133,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1984,205.64625847537,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1984,1.2766962998954,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1984,0.6292319440932,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1984,0.87425127318817,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1984,4.9241924957505,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1984,180.09682791408,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1984,42.183305298016,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1984,194.7669299696,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1984,7.3997142148555,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1984,0.19416604137042,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1984,2.0205220434461,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1984,7.0446882230424,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1984,131.31530185811,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1984,5.9666031629512,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1984,16.465592054389,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1985,18.252491761078,sector,CO2,Agriculture
+EU27,EU27,1985,840.93889093692,sector,CO2,Buildings
+EU27,EU27,1985,212.69664006586,sector,CO2,Fuel Production
+EU27,EU27,1985,781.82521056454,sector,CO2,Industrial Combustion
+EU27,EU27,1985,1275.7882582305,sector,CO2,Power Industry
+EU27,EU27,1985,254.57933277377,sector,CO2,Processes
+EU27,EU27,1985,524.33710812508,sector,CO2,Transport
+EU27,EU27,1985,1.7345433337069,sector,CO2,Waste
+EU27,EU27,1985,341.54927092704,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1985,26.600461529296,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1985,203.95903669849,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1985,1.2860207984509,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1985,0.64543094191052,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1985,0.83566869647611,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1985,4.8694771501836,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1985,180.64308766865,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1985,41.122941372999,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1985,195.18310029977,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1985,7.586556961567,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1985,0.19662045625521,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1985,2.0377080741459,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1985,7.0193371035838,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1985,121.34173006769,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1985,6.0093119095048,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1985,16.510397849646,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1986,18.277308704853,sector,CO2,Agriculture
+EU27,EU27,1986,856.2114766067,sector,CO2,Buildings
+EU27,EU27,1986,208.34911421145,sector,CO2,Fuel Production
+EU27,EU27,1986,752.73364709507,sector,CO2,Industrial Combustion
+EU27,EU27,1986,1277.8694889782,sector,CO2,Power Industry
+EU27,EU27,1986,254.66976181007,sector,CO2,Processes
+EU27,EU27,1986,547.61382918776,sector,CO2,Transport
+EU27,EU27,1986,1.7491228935775,sector,CO2,Waste
+EU27,EU27,1986,340.17111934895,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1986,27.332352017006,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1986,198.50838219009,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1986,1.2444432135988,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1986,0.62527726595796,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1986,0.83936774357345,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1986,5.0509142874557,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1986,180.41149707529,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1986,40.094022129699,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1986,196.36247168014,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1986,7.7006097980717,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1986,0.20368023923354,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1986,1.9618591309477,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1986,6.9720147140534,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1986,116.89185230132,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1986,6.1983088967757,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1986,16.556667758786,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1987,17.403304621663,sector,CO2,Agriculture
+EU27,EU27,1987,865.08437246364,sector,CO2,Buildings
+EU27,EU27,1987,206.66854064149,sector,CO2,Fuel Production
+EU27,EU27,1987,756.21004469569,sector,CO2,Industrial Combustion
+EU27,EU27,1987,1288.7887854242,sector,CO2,Power Industry
+EU27,EU27,1987,256.90342701403,sector,CO2,Processes
+EU27,EU27,1987,568.428405326,sector,CO2,Transport
+EU27,EU27,1987,1.7640026335742,sector,CO2,Waste
+EU27,EU27,1987,333.92348097345,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1987,28.366083573113,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1987,192.25266756455,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1987,1.2472125846301,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1987,0.63324763699413,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1987,0.83649322574806,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1987,5.1879105095083,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1987,181.00505665769,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1987,39.445654452865,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1987,194.31657078601,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1987,7.7356691532675,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1987,0.21354936466763,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1987,1.9692604587059,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1987,6.8762299679716,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1987,121.22328741003,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1987,6.3791141297672,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1987,16.604256144813,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1988,18.032947216201,sector,CO2,Agriculture
+EU27,EU27,1988,812.72010832679,sector,CO2,Buildings
+EU27,EU27,1988,207.84100345332,sector,CO2,Fuel Production
+EU27,EU27,1988,763.87247759531,sector,CO2,Industrial Combustion
+EU27,EU27,1988,1282.9134508063,sector,CO2,Power Industry
+EU27,EU27,1988,266.16959667198,sector,CO2,Processes
+EU27,EU27,1988,600.64480578603,sector,CO2,Transport
+EU27,EU27,1988,1.779059991934,sector,CO2,Waste
+EU27,EU27,1988,332.16831783266,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1988,27.316571615476,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1988,184.75432830609,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1988,1.2755821990971,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1988,0.64668647598907,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1988,0.86952623632418,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1988,5.3782521506246,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1988,181.89437778557,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1988,40.143649908313,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1988,196.41837248432,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1988,7.9258599089346,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1988,0.21365567290766,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1988,1.9935360235207,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1988,7.6058239427056,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1988,113.8873522294,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1988,6.6237581999554,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1988,16.652939657634,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1989,17.432282854165,sector,CO2,Agriculture
+EU27,EU27,1989,737.27648175597,sector,CO2,Buildings
+EU27,EU27,1989,220.98605707434,sector,CO2,Fuel Production
+EU27,EU27,1989,764.29554236989,sector,CO2,Industrial Combustion
+EU27,EU27,1989,1331.4541964822,sector,CO2,Power Industry
+EU27,EU27,1989,261.93628606528,sector,CO2,Processes
+EU27,EU27,1989,625.21503879605,sector,CO2,Transport
+EU27,EU27,1989,1.7941133597693,sector,CO2,Waste
+EU27,EU27,1989,332.60112964966,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1989,25.603497509823,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1989,174.46353963546,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1989,1.3061905003475,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1989,0.6785586343682,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1989,0.86435027084604,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1989,5.4886941744646,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1989,182.74660946143,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1989,40.282435463386,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1989,194.8432107145,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1989,8.0168115229093,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1989,0.21474199977523,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1989,2.0243696894634,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1989,8.3122359131988,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1989,107.50334202679,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1989,6.7832934064869,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1989,16.701948270432,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1990,13.953399121622,sector,CO2,Agriculture
+EU27,EU27,1990,697.0913207654,sector,CO2,Buildings
+EU27,EU27,1990,213.38650792851,sector,CO2,Fuel Production
+EU27,EU27,1990,668.56886183873,sector,CO2,Industrial Combustion
+EU27,EU27,1990,1324.2118915792,sector,CO2,Power Industry
+EU27,EU27,1990,244.26837273368,sector,CO2,Processes
+EU27,EU27,1990,642.63794476998,sector,CO2,Transport
+EU27,EU27,1990,1.8012801133572,sector,CO2,Waste
+EU27,EU27,1990,331.17911113788,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1990,22.819248283439,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1990,153.61318730335,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1990,1.2744531178233,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1990,0.68543789868323,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1990,0.85237679388394,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1990,5.64202226853,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1990,176.64438073111,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1990,44.434529240852,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1990,184.10880383764,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1990,7.8289569104821,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1990,0.20906258408524,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1990,1.8845423642351,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1990,9.3193615928992,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1990,89.263978086172,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1990,6.888020173056,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1990,16.750856244858,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1991,12.012706127413,sector,CO2,Agriculture
+EU27,EU27,1991,726.48907626149,sector,CO2,Buildings
+EU27,EU27,1991,213.14596637545,sector,CO2,Fuel Production
+EU27,EU27,1991,606.07293454043,sector,CO2,Industrial Combustion
+EU27,EU27,1991,1318.7816394547,sector,CO2,Power Industry
+EU27,EU27,1991,224.88730893643,sector,CO2,Processes
+EU27,EU27,1991,651.02737627756,sector,CO2,Transport
+EU27,EU27,1991,1.8045253241338,sector,CO2,Waste
+EU27,EU27,1991,318.24822677635,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1991,23.462383806081,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1991,142.69353827469,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1991,1.1718124836132,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1991,0.70774223164502,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1991,0.80950893186121,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1991,5.5244313406713,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1991,180.01069668613,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1991,42.495651962542,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1991,173.46065257729,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1991,7.605748812697,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1991,0.21491902243973,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1991,1.7214039274744,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1991,9.6626415528326,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1991,88.293057254359,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1991,7.1246828037337,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1991,16.959556571446,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1992,9.9895885218079,sector,CO2,Agriculture
+EU27,EU27,1992,675.49829183129,sector,CO2,Buildings
+EU27,EU27,1992,200.02445403775,sector,CO2,Fuel Production
+EU27,EU27,1992,550.11451948993,sector,CO2,Industrial Combustion
+EU27,EU27,1992,1288.8937975538,sector,CO2,Power Industry
+EU27,EU27,1992,215.53834914056,sector,CO2,Processes
+EU27,EU27,1992,668.94682248227,sector,CO2,Transport
+EU27,EU27,1992,1.886561931698,sector,CO2,Waste
+EU27,EU27,1992,301.4523280712,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1992,21.23001498426,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1992,138.20311105758,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1992,1.1135633537572,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1992,0.74260304339312,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1992,0.73865680950885,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1992,5.5253509172596,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1992,181.80690698112,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1992,41.534591656957,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1992,163.60385410979,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1992,7.4461154423926,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1992,0.23030001546925,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1992,1.6207613691986,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1992,9.4415183580898,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1992,89.194773040613,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1992,7.4303577512798,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1992,17.185990942721,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1993,10.81764650921,sector,CO2,Agriculture
+EU27,EU27,1993,683.73342661499,sector,CO2,Buildings
+EU27,EU27,1993,204.99323605251,sector,CO2,Fuel Production
+EU27,EU27,1993,530.70004306502,sector,CO2,Industrial Combustion
+EU27,EU27,1993,1233.1207734166,sector,CO2,Power Industry
+EU27,EU27,1993,205.9259955206,sector,CO2,Processes
+EU27,EU27,1993,674.02947481414,sector,CO2,Transport
+EU27,EU27,1993,1.8657998640013,sector,CO2,Waste
+EU27,EU27,1993,287.68526344332,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1993,22.710018336112,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1993,129.33850366311,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1993,1.095927174697,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1993,0.75096271691958,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1993,0.73810567626743,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1993,5.3703304613334,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1993,182.84213553116,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1993,43.200334830764,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1993,161.16325000317,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1993,7.5455617239226,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1993,0.24762018047719,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1993,1.5698006169803,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1993,9.6629600015678,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1993,88.793482104922,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1993,7.6110194600175,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1993,17.402610938653,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1994,11.433442155096,sector,CO2,Agriculture
+EU27,EU27,1994,644.03262414565,sector,CO2,Buildings
+EU27,EU27,1994,212.91660966898,sector,CO2,Fuel Production
+EU27,EU27,1994,546.86176809178,sector,CO2,Industrial Combustion
+EU27,EU27,1994,1225.277107868,sector,CO2,Power Industry
+EU27,EU27,1994,213.52081983531,sector,CO2,Processes
+EU27,EU27,1994,678.64949248709,sector,CO2,Transport
+EU27,EU27,1994,2.0465127319102,sector,CO2,Waste
+EU27,EU27,1994,280.77305411361,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1994,20.514684913411,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1994,125.40121700581,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1994,1.1280416222747,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1994,0.76854384680336,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1994,0.75017761304501,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1994,5.1946927391097,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1994,183.97309409092,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1994,46.78771690049,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1994,159.92831760139,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1994,7.3306243061616,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1994,0.25600638191146,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1994,1.6004875001906,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1994,10.348991296058,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1994,93.861674541833,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1994,7.745949231687,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1994,17.675588419661,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1995,11.366566438202,sector,CO2,Agriculture
+EU27,EU27,1995,655.13382914729,sector,CO2,Buildings
+EU27,EU27,1995,211.26709070354,sector,CO2,Fuel Production
+EU27,EU27,1995,562.08324207438,sector,CO2,Industrial Combustion
+EU27,EU27,1995,1237.9800185783,sector,CO2,Power Industry
+EU27,EU27,1995,219.50682720032,sector,CO2,Processes
+EU27,EU27,1995,687.2949704322,sector,CO2,Transport
+EU27,EU27,1995,2.0247332987346,sector,CO2,Waste
+EU27,EU27,1995,276.16747103548,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1995,20.105403849406,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1995,125.29262234681,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1995,1.1952165498135,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1995,0.80380695894142,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1995,0.70478398614953,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1995,5.013622594821,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1995,183.00866220058,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1995,50.160056324628,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1995,158.8219874769,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1995,7.4484207125984,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1995,0.26372393291833,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1995,1.6766516140421,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1995,10.649983708908,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1995,95.887506160125,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1995,8.0301680842547,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1995,17.882024612801,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1996,11.982456196809,sector,CO2,Agriculture
+EU27,EU27,1996,708.07850608001,sector,CO2,Buildings
+EU27,EU27,1996,210.05670480582,sector,CO2,Fuel Production
+EU27,EU27,1996,559.48278210729,sector,CO2,Industrial Combustion
+EU27,EU27,1996,1266.9309426003,sector,CO2,Power Industry
+EU27,EU27,1996,217.85255046554,sector,CO2,Processes
+EU27,EU27,1996,710.04566756748,sector,CO2,Transport
+EU27,EU27,1996,2.0234281733718,sector,CO2,Waste
+EU27,EU27,1996,275.98042275392,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1996,21.350157341126,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1996,121.70765682878,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1996,1.1946347839153,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1996,0.87218643246886,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1996,0.69735413886139,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1996,4.8602851485451,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1996,181.9849466398,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1996,54.906728447507,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1996,161.81480450745,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1996,7.5903834431366,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1996,0.27175713679283,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1996,1.6740736796409,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1996,11.742913558219,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1996,99.719574650362,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1996,8.2071855113356,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1996,18.161325454679,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1997,11.747423354384,sector,CO2,Agriculture
+EU27,EU27,1997,665.91354937446,sector,CO2,Buildings
+EU27,EU27,1997,208.35265888656,sector,CO2,Fuel Production
+EU27,EU27,1997,558.82550477887,sector,CO2,Industrial Combustion
+EU27,EU27,1997,1225.0320055831,sector,CO2,Power Industry
+EU27,EU27,1997,221.96063845714,sector,CO2,Processes
+EU27,EU27,1997,721.3068848102,sector,CO2,Transport
+EU27,EU27,1997,1.9402130486982,sector,CO2,Waste
+EU27,EU27,1997,274.63967406107,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1997,20.004253494442,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1997,118.43861724358,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1997,1.2229004118679,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1997,0.88669404987512,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1997,0.75182267803069,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1997,4.6311975211235,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1997,179.49593200759,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1997,56.415839198388,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1997,162.06321737969,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1997,7.6238483634622,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1997,0.25453982553769,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1997,1.7071027985907,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1997,12.031891854268,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1997,92.990773909221,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1997,8.30026362346,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1997,18.4518202284,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1998,11.078466187832,sector,CO2,Agriculture
+EU27,EU27,1998,652.48714004078,sector,CO2,Buildings
+EU27,EU27,1998,208.58611384447,sector,CO2,Fuel Production
+EU27,EU27,1998,532.05100303391,sector,CO2,Industrial Combustion
+EU27,EU27,1998,1224.1585714055,sector,CO2,Power Industry
+EU27,EU27,1998,226.41031655161,sector,CO2,Processes
+EU27,EU27,1998,750.52507710976,sector,CO2,Transport
+EU27,EU27,1998,1.9868165104481,sector,CO2,Waste
+EU27,EU27,1998,271.36434598481,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1998,18.752542259282,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1998,105.23650003415,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1998,1.1723009991048,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1998,0.9245552346663,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1998,0.88827083567937,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1998,4.4351919972404,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1998,177.08211393775,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1998,59.974797768768,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1998,162.391899841,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1998,7.4890262603619,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1998,0.25421716014737,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1998,1.6249045331795,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1998,14.750769862017,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1998,69.355518834241,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1998,8.4799355068401,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1998,18.61625651151,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,1999,11.251585195356,sector,CO2,Agriculture
+EU27,EU27,1999,636.94506794316,sector,CO2,Buildings
+EU27,EU27,1999,194.20194132569,sector,CO2,Fuel Production
+EU27,EU27,1999,507.63030777903,sector,CO2,Industrial Combustion
+EU27,EU27,1999,1196.9294638566,sector,CO2,Power Industry
+EU27,EU27,1999,225.06175111577,sector,CO2,Processes
+EU27,EU27,1999,768.32924687552,sector,CO2,Transport
+EU27,EU27,1999,2.0204926870261,sector,CO2,Waste
+EU27,EU27,1999,269.69568284685,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,1999,18.309767822688,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,1999,100.11645241155,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,1999,1.114655890856,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,1999,0.96216378425834,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,1999,0.829963533821,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,1999,4.1535520762688,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,1999,175.20574775018,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,1999,58.202355840875,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,1999,161.95502383874,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,1999,6.8012354205335,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,1999,0.24035332018487,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,1999,1.534874713229,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,1999,16.03932767223,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,1999,63.49356972077,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,1999,8.5175274184275,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,1999,18.865105993946,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2000,11.579385206199,sector,CO2,Agriculture
+EU27,EU27,2000,611.39736961672,sector,CO2,Buildings
+EU27,EU27,2000,198.62970915442,sector,CO2,Fuel Production
+EU27,EU27,2000,520.25459897083,sector,CO2,Industrial Combustion
+EU27,EU27,2000,1213.470366262,sector,CO2,Power Industry
+EU27,EU27,2000,233.66149584901,sector,CO2,Processes
+EU27,EU27,2000,768.26238372112,sector,CO2,Transport
+EU27,EU27,2000,2.0419280740638,sector,CO2,Waste
+EU27,EU27,2000,269.34153570342,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2000,17.356072260258,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2000,93.152155511659,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2000,1.1435555335425,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2000,1.0094402019802,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2000,0.86859033011334,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2000,3.7212986415703,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2000,175.60235376414,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2000,59.664855228499,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2000,159.40673148918,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2000,6.9226239297747,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2000,0.2121852330536,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2000,1.5694225557147,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2000,18.095991835928,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2000,66.108958877747,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2000,8.4014362852193,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2000,19.143976743799,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2001,11.746689976832,sector,CO2,Agriculture
+EU27,EU27,2001,645.79343756506,sector,CO2,Buildings
+EU27,EU27,2001,191.68536699451,sector,CO2,Fuel Production
+EU27,EU27,2001,512.34611514396,sector,CO2,Industrial Combustion
+EU27,EU27,2001,1235.6240999808,sector,CO2,Power Industry
+EU27,EU27,2001,229.5574412137,sector,CO2,Processes
+EU27,EU27,2001,782.74637449126,sector,CO2,Transport
+EU27,EU27,2001,2.1424572131795,sector,CO2,Waste
+EU27,EU27,2001,264.26114630501,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2001,17.715598430475,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2001,90.733911582346,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2001,1.1052061296485,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2001,1.0752480367681,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2001,0.85996447183146,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2001,3.5766109979343,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2001,173.59918648192,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2001,58.147085794528,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2001,158.41255448635,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2001,6.8315287749716,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2001,0.20910715737804,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2001,1.5028177326161,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2001,16.381570315494,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2001,63.947432491415,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2001,8.2842102308845,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2001,19.313219231038,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2002,11.155937604856,sector,CO2,Agriculture
+EU27,EU27,2002,621.63941969329,sector,CO2,Buildings
+EU27,EU27,2002,191.14551470135,sector,CO2,Fuel Production
+EU27,EU27,2002,498.1804865928,sector,CO2,Industrial Combustion
+EU27,EU27,2002,1257.9406498034,sector,CO2,Power Industry
+EU27,EU27,2002,227.99479316738,sector,CO2,Processes
+EU27,EU27,2002,790.79730623433,sector,CO2,Transport
+EU27,EU27,2002,2.2447458835925,sector,CO2,Waste
+EU27,EU27,2002,263.35583779492,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2002,16.609352046666,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2002,89.05392058728,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2002,1.0893421217268,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2002,1.1345286211814,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2002,0.86546614883154,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2002,3.3961905777552,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2002,171.05369010136,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2002,62.735131556829,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2002,157.2462344571,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2002,6.7856614181247,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2002,0.19332897796915,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2002,1.4765192676683,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2002,15.644259195475,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2002,61.790335951548,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2002,8.2368930800295,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2002,19.536174019435,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2003,11.456918512365,sector,CO2,Agriculture
+EU27,EU27,2003,642.49927670202,sector,CO2,Buildings
+EU27,EU27,2003,191.34176861928,sector,CO2,Fuel Production
+EU27,EU27,2003,507.90515127129,sector,CO2,Industrial Combustion
+EU27,EU27,2003,1304.2402749915,sector,CO2,Power Industry
+EU27,EU27,2003,235.4548157828,sector,CO2,Processes
+EU27,EU27,2003,804.98289818062,sector,CO2,Transport
+EU27,EU27,2003,2.4048104981208,sector,CO2,Waste
+EU27,EU27,2003,259.78807499915,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2003,18.017680695861,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2003,87.250210376518,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2003,1.1513873905248,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2003,1.2377589861483,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2003,0.90800686773194,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2003,3.1976930426503,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2003,168.27127103344,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2003,66.510283967012,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2003,155.58896668687,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2003,7.0948552132125,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2003,0.17817366911918,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2003,1.56609071423,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2003,15.104069849259,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2003,62.583402943685,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2003,8.1709368997085,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2003,19.693776996919,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2004,11.811485227558,sector,CO2,Agriculture
+EU27,EU27,2004,639.43981510071,sector,CO2,Buildings
+EU27,EU27,2004,191.66487758694,sector,CO2,Fuel Production
+EU27,EU27,2004,492.23007648869,sector,CO2,Industrial Combustion
+EU27,EU27,2004,1300.4492374008,sector,CO2,Power Industry
+EU27,EU27,2004,245.11567167461,sector,CO2,Processes
+EU27,EU27,2004,824.60190274664,sector,CO2,Transport
+EU27,EU27,2004,2.466259475013,sector,CO2,Waste
+EU27,EU27,2004,258.05121608805,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2004,17.860183414556,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2004,83.973269783957,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2004,1.1613803658814,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2004,1.3612126646213,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2004,0.92597427229788,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2004,3.0101789009158,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2004,164.06062790429,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2004,70.743908246791,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2004,156.19627235595,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2004,7.1280964992579,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2004,0.18232600980849,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2004,1.5720620141218,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2004,13.930109832633,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2004,60.879052169757,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2004,8.1475831392654,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2004,19.705567435037,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2005,10.87391856159,sector,CO2,Agriculture
+EU27,EU27,2005,639.88791004707,sector,CO2,Buildings
+EU27,EU27,2005,188.12928597654,sector,CO2,Fuel Production
+EU27,EU27,2005,481.69321588967,sector,CO2,Industrial Combustion
+EU27,EU27,2005,1294.2915008476,sector,CO2,Power Industry
+EU27,EU27,2005,245.16373419077,sector,CO2,Processes
+EU27,EU27,2005,822.89527929651,sector,CO2,Transport
+EU27,EU27,2005,2.517585151792,sector,CO2,Waste
+EU27,EU27,2005,252.91241017114,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2005,18.545361974089,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2005,81.488068026144,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2005,1.1605311869996,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2005,1.5236153526675,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2005,0.90735623076577,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2005,2.7776305026259,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2005,160.12454827884,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2005,74.907480701446,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2005,153.44641338473,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2005,7.2535950995618,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2005,0.17758595679987,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2005,1.5655788919662,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2005,13.283404283019,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2005,60.574964597269,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2005,7.9175032824022,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2005,19.88130153867,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2006,10.273213770316,sector,CO2,Agriculture
+EU27,EU27,2006,634.93452399921,sector,CO2,Buildings
+EU27,EU27,2006,195.86452775696,sector,CO2,Fuel Production
+EU27,EU27,2006,464.83077785799,sector,CO2,Industrial Combustion
+EU27,EU27,2006,1308.2959942974,sector,CO2,Power Industry
+EU27,EU27,2006,249.90660716987,sector,CO2,Processes
+EU27,EU27,2006,834.7199715019,sector,CO2,Transport
+EU27,EU27,2006,2.4291764536392,sector,CO2,Waste
+EU27,EU27,2006,251.53381057701,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2006,18.90879398436,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2006,79.576862944664,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2006,1.1801258022928,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2006,1.6163506123943,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2006,0.88776733676422,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2006,2.6558996138818,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2006,157.87940949937,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2006,79.198477478756,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2006,151.86844721622,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2006,6.9234574028215,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2006,0.16967531075027,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2006,1.5904968612807,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2006,13.175080889952,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2006,55.312896540006,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2006,7.9325236522343,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2006,20.119150837722,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2007,10.674242309141,sector,CO2,Agriculture
+EU27,EU27,2007,554.95870141489,sector,CO2,Buildings
+EU27,EU27,2007,199.76206298649,sector,CO2,Fuel Production
+EU27,EU27,2007,466.29826353004,sector,CO2,Industrial Combustion
+EU27,EU27,2007,1329.7514800681,sector,CO2,Power Industry
+EU27,EU27,2007,257.34914464535,sector,CO2,Processes
+EU27,EU27,2007,843.28725537738,sector,CO2,Transport
+EU27,EU27,2007,2.384533573316,sector,CO2,Waste
+EU27,EU27,2007,253.83409143673,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2007,18.932857159166,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2007,78.535134260234,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2007,1.2244578017436,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2007,1.6921392905201,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2007,0.91037055224155,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2007,2.5191355920781,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2007,154.28971928879,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2007,84.594873827405,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2007,155.38750982763,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2007,6.7904300516132,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2007,0.17440920911022,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2007,1.6413919598928,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2007,13.076446056453,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2007,53.250183330651,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2007,8.0182908794601,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2007,20.302088958478,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2008,9.9868470601241,sector,CO2,Agriculture
+EU27,EU27,2008,595.93860375205,sector,CO2,Buildings
+EU27,EU27,2008,192.25286815237,sector,CO2,Fuel Production
+EU27,EU27,2008,447.35960143961,sector,CO2,Industrial Combustion
+EU27,EU27,2008,1255.9124235924,sector,CO2,Power Industry
+EU27,EU27,2008,245.31525136435,sector,CO2,Processes
+EU27,EU27,2008,826.58708020085,sector,CO2,Transport
+EU27,EU27,2008,2.4065866177002,sector,CO2,Waste
+EU27,EU27,2008,254.04877371737,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2008,20.263848355337,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2008,74.844048128949,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2008,1.1785652155885,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2008,1.7826057328623,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2008,0.84814709781499,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2008,2.3538870694077,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2008,149.84449234772,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2008,89.021706018869,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2008,150.70374937894,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2008,6.978030704675,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2008,0.17060769960775,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2008,1.5674793076819,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2008,11.884639759542,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2008,44.836425834898,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2008,7.8203867353829,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2008,20.452991026607,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2009,10.380908977933,sector,CO2,Agriculture
+EU27,EU27,2009,581.46060591327,sector,CO2,Buildings
+EU27,EU27,2009,167.83357188384,sector,CO2,Fuel Production
+EU27,EU27,2009,371.49825821325,sector,CO2,Industrial Combustion
+EU27,EU27,2009,1159.1374294229,sector,CO2,Power Industry
+EU27,EU27,2009,208.65066127593,sector,CO2,Processes
+EU27,EU27,2009,800.06800683925,sector,CO2,Transport
+EU27,EU27,2009,2.2197892811177,sector,CO2,Waste
+EU27,EU27,2009,252.60765643131,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2009,20.465317353318,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2009,70.138043180911,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2009,1.084417281649,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2009,1.8110263423081,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2009,0.73689257559261,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2009,2.2180067523446,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2009,147.00555700615,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2009,88.066502478842,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2009,150.69385245831,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2009,6.8368568309918,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2009,0.16589068865153,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2009,1.4479692461569,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2009,11.491763068399,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2009,36.719068124523,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2009,7.5155582882519,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2009,20.917755881414,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2010,10.822427971724,sector,CO2,Agriculture
+EU27,EU27,2010,610.06192879779,sector,CO2,Buildings
+EU27,EU27,2010,183.36538554495,sector,CO2,Fuel Production
+EU27,EU27,2010,399.10681052518,sector,CO2,Industrial Combustion
+EU27,EU27,2010,1187.9255139249,sector,CO2,Power Industry
+EU27,EU27,2010,221.95176366443,sector,CO2,Processes
+EU27,EU27,2010,793.68435289292,sector,CO2,Transport
+EU27,EU27,2010,2.3897825199783,sector,CO2,Waste
+EU27,EU27,2010,251.99296300957,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2010,22.032192284079,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2010,70.235368375718,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2010,1.1726125196348,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2010,1.9875888197748,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2010,0.83493080402755,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2010,2.0617802166489,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2010,143.8514632161,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2010,91.862819958508,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2010,153.79934418358,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2010,6.9778595838661,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2010,0.16780263109165,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2010,1.5556227889018,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2010,12.261304581335,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2010,28.35591564666,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2010,7.4284237531914,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2010,21.444441930421,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2011,10.298513743862,sector,CO2,Agriculture
+EU27,EU27,2011,539.51758770635,sector,CO2,Buildings
+EU27,EU27,2011,176.87344984807,sector,CO2,Fuel Production
+EU27,EU27,2011,399.30246120326,sector,CO2,Industrial Combustion
+EU27,EU27,2011,1175.0474151942,sector,CO2,Power Industry
+EU27,EU27,2011,221.96212426183,sector,CO2,Processes
+EU27,EU27,2011,791.09006858081,sector,CO2,Transport
+EU27,EU27,2011,2.4241686252835,sector,CO2,Waste
+EU27,EU27,2011,247.46116680094,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2011,19.113178906248,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2011,70.660138118208,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2011,1.2148531906113,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2011,1.9653834823007,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2011,0.80217979737005,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2011,1.9954062238555,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2011,140.42771979961,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2011,94.26771734535,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2011,150.272457702,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2011,6.5565660015654,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2011,0.15683381798973,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2011,1.6151375598747,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2011,11.960361905035,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2011,25.246437909747,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2011,7.4252709638166,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2011,21.798074366146,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2012,11.3013993864,sector,CO2,Agriculture
+EU27,EU27,2012,550.96706636065,sector,CO2,Buildings
+EU27,EU27,2012,173.64513057355,sector,CO2,Fuel Production
+EU27,EU27,2012,383.86288783529,sector,CO2,Industrial Combustion
+EU27,EU27,2012,1156.3548305303,sector,CO2,Power Industry
+EU27,EU27,2012,212.09029320925,sector,CO2,Processes
+EU27,EU27,2012,759.64081680795,sector,CO2,Transport
+EU27,EU27,2012,2.5646550583636,sector,CO2,Waste
+EU27,EU27,2012,246.96594203291,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2012,20.871371985501,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2012,70.27449248661,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2012,1.1701578372006,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2012,2.0451715259888,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2012,0.77650021053823,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2012,1.8745234146324,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2012,137.96830857585,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2012,95.924897912863,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2012,152.44981028111,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2012,6.6005979877215,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2012,0.15132301010389,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2012,1.5528687746233,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2012,11.872872686482,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2012,24.021691513159,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2012,7.2223356128678,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2012,21.77146911712,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2013,11.231313657863,sector,CO2,Agriculture
+EU27,EU27,2013,560.35079322572,sector,CO2,Buildings
+EU27,EU27,2013,165.82279035976,sector,CO2,Fuel Production
+EU27,EU27,2013,377.15667469896,sector,CO2,Industrial Combustion
+EU27,EU27,2013,1094.2673308149,sector,CO2,Power Industry
+EU27,EU27,2013,201.91972889778,sector,CO2,Processes
+EU27,EU27,2013,753.10024154442,sector,CO2,Transport
+EU27,EU27,2013,2.4167222128368,sector,CO2,Waste
+EU27,EU27,2013,247.5672909534,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2013,21.010311611576,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2013,67.917042567328,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2013,1.1883896626615,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2013,2.0189323537218,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2013,0.76739783508583,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2013,1.8180523478267,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2013,132.27189842597,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2013,97.315158836324,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2013,154.48149301489,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2013,6.7322392671225,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2013,0.14536603659703,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2013,1.5706452439223,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2013,11.835847184445,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2013,21.513007749797,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2013,7.0468868289691,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2013,21.778596386231,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2014,11.262846969717,sector,CO2,Agriculture
+EU27,EU27,2014,484.59204123295,sector,CO2,Buildings
+EU27,EU27,2014,164.16486065864,sector,CO2,Fuel Production
+EU27,EU27,2014,366.12310419902,sector,CO2,Industrial Combustion
+EU27,EU27,2014,1029.9302745801,sector,CO2,Power Industry
+EU27,EU27,2014,206.3480544441,sector,CO2,Processes
+EU27,EU27,2014,759.03681763301,sector,CO2,Transport
+EU27,EU27,2014,2.4794057636211,sector,CO2,Waste
+EU27,EU27,2014,249.74566841484,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2014,18.379223453645,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2014,65.9470149454,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2014,1.1866807841648,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2014,1.9990541303252,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2014,0.78593230606377,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2014,1.774137061867,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2014,128.7546911604,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2014,98.587502439246,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2014,156.92962657999,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2014,6.336804247908,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2014,0.13850713095354,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2014,1.5658518904769,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2014,11.561346649251,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2014,20.232018314837,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2014,7.1598967758395,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2014,21.843977228963,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2015,11.610970712404,sector,CO2,Agriculture
+EU27,EU27,2015,507.23021470153,sector,CO2,Buildings
+EU27,EU27,2015,171.84790896246,sector,CO2,Fuel Production
+EU27,EU27,2015,365.18700651048,sector,CO2,Industrial Combustion
+EU27,EU27,2015,1046.1547730201,sector,CO2,Power Industry
+EU27,EU27,2015,205.59849141106,sector,CO2,Processes
+EU27,EU27,2015,773.86409170487,sector,CO2,Transport
+EU27,EU27,2015,2.4544816830176,sector,CO2,Waste
+EU27,EU27,2015,253.06347978259,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2015,19.003689083549,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2015,65.109614174119,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2015,1.2148433923305,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2015,2.0484266994766,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2015,0.76414265490475,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2015,1.7372711302578,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2015,127.44863168867,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2015,90.997658212059,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2015,157.89444530941,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2015,6.4963391295732,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2015,0.13404873939727,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2015,1.6018336670933,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2015,11.60558675411,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2015,19.922176984489,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2015,7.3261286433876,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2015,21.94703644297,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2016,11.940027823202,sector,CO2,Agriculture
+EU27,EU27,2016,515.86398869068,sector,CO2,Buildings
+EU27,EU27,2016,165.48342102578,sector,CO2,Fuel Production
+EU27,EU27,2016,369.71886634102,sector,CO2,Industrial Combustion
+EU27,EU27,2016,1027.9268151026,sector,CO2,Power Industry
+EU27,EU27,2016,206.29534783654,sector,CO2,Processes
+EU27,EU27,2016,793.00109978732,sector,CO2,Transport
+EU27,EU27,2016,2.3402047844135,sector,CO2,Waste
+EU27,EU27,2016,253.70052980311,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2016,18.993190631939,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2016,63.600442825304,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2016,1.2653172107022,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2016,2.13095790783,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2016,0.77835816804664,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2016,1.7331604990227,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2016,126.13023893865,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2016,91.594528139919,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2016,158.67427127841,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2016,6.514268117102,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2016,0.12550378939953,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2016,1.6670709022874,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2016,11.073661299309,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2016,19.759642361072,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2016,7.4599278234029,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2016,22.125652081772,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2017,12.167413599826,sector,CO2,Agriculture
+EU27,EU27,2017,514.02771179247,sector,CO2,Buildings
+EU27,EU27,2017,170.51824566345,sector,CO2,Fuel Production
+EU27,EU27,2017,370.27830479534,sector,CO2,Industrial Combustion
+EU27,EU27,2017,1028.1499415773,sector,CO2,Power Industry
+EU27,EU27,2017,211.96953314508,sector,CO2,Processes
+EU27,EU27,2017,807.57306414981,sector,CO2,Transport
+EU27,EU27,2017,2.4491253194887,sector,CO2,Waste
+EU27,EU27,2017,252.85906027676,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2017,19.004491451977,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2017,62.309470432317,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2017,1.2749075451872,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2017,2.2001897288942,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2017,0.79360483670493,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2017,1.7357421340269,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2017,126.27792786346,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2017,88.722159345026,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2017,159.05193731138,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2017,6.6022916002249,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2017,0.1260153588128,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2017,1.6774764102466,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2017,10.824632157787,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2017,19.856575998203,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2017,7.5766025805835,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2017,22.36587596911,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2018,10.788537469283,sector,CO2,Agriculture
+EU27,EU27,2018,503.51763034777,sector,CO2,Buildings
+EU27,EU27,2018,176.14955501979,sector,CO2,Fuel Production
+EU27,EU27,2018,374.90249904635,sector,CO2,Industrial Combustion
+EU27,EU27,2018,966.02766206219,sector,CO2,Power Industry
+EU27,EU27,2018,209.42883738192,sector,CO2,Processes
+EU27,EU27,2018,807.49792830722,sector,CO2,Transport
+EU27,EU27,2018,2.4578927550922,sector,CO2,Waste
+EU27,EU27,2018,248.40930291958,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2018,19.291807429854,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2018,61.072550521622,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2018,1.2934064593909,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2018,2.1603681421116,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2018,0.77591118658464,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2018,1.7191106248781,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2018,125.17559793281,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2018,84.016212840277,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2018,153.15708566547,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2018,7.3595403119016,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2018,0.12430327278466,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2018,1.6989840950615,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2018,10.750911431159,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2018,19.33541979855,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2018,7.5684095448023,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2018,22.614066612718,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2019,10.996751793682,sector,CO2,Agriculture
+EU27,EU27,2019,489.78894837282,sector,CO2,Buildings
+EU27,EU27,2019,169.90747613405,sector,CO2,Fuel Production
+EU27,EU27,2019,364.8975292586,sector,CO2,Industrial Combustion
+EU27,EU27,2019,850.0464961232,sector,CO2,Power Industry
+EU27,EU27,2019,207.81741470749,sector,CO2,Processes
+EU27,EU27,2019,813.4359808642,sector,CO2,Transport
+EU27,EU27,2019,2.4590839574294,sector,CO2,Waste
+EU27,EU27,2019,246.6858460424,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2019,18.415457729143,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2019,59.248808285125,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2019,1.3034985842039,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2019,2.2241527633143,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2019,0.76594993026541,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2019,1.74611070189,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2019,123.72733501118,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2019,79.138219262219,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2019,153.56519389387,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2019,7.3179470426633,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2019,0.12406545390804,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2019,1.7096521702214,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2019,9.3513084062849,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2019,18.88043509491,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2019,7.622969261575,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2019,22.773021356286,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2020,10.839504169268,sector,CO2,Agriculture
+EU27,EU27,2020,488.007328292,sector,CO2,Buildings
+EU27,EU27,2020,149.91810588736,sector,CO2,Fuel Production
+EU27,EU27,2020,351.58201145274,sector,CO2,Industrial Combustion
+EU27,EU27,2020,734.04405267588,sector,CO2,Power Industry
+EU27,EU27,2020,199.89758493196,sector,CO2,Processes
+EU27,EU27,2020,700.73536804557,sector,CO2,Transport
+EU27,EU27,2020,2.3899282036745,sector,CO2,Waste
+EU27,EU27,2020,245.64947213965,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2020,17.7438541498,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2020,55.524618426222,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2020,1.2921979811425,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2020,2.2143318758435,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2020,0.75805303923963,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2020,1.5047578988084,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2020,123.19452398849,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2020,71.91711929253,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2020,152.6343251464,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2020,7.406649033557,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2020,0.11430476513822,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2020,1.6931578109149,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2020,7.9129821033142,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2020,18.003751212994,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2020,6.608364488865,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2020,22.934158386971,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2021,9.6603042030646,sector,CO2,Agriculture
+EU27,EU27,2021,501.27279399648,sector,CO2,Buildings
+EU27,EU27,2021,157.67050319111,sector,CO2,Fuel Production
+EU27,EU27,2021,383.80958705775,sector,CO2,Industrial Combustion
+EU27,EU27,2021,795.37156468018,sector,CO2,Power Industry
+EU27,EU27,2021,208.3387710197,sector,CO2,Processes
+EU27,EU27,2021,760.35643520388,sector,CO2,Transport
+EU27,EU27,2021,2.4942483879656,sector,CO2,Waste
+EU27,EU27,2021,242.32720634472,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2021,18.808635380313,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2021,57.201771148339,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2021,1.3343018205171,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2021,2.3581537267466,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2021,0.80743582897012,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2021,1.5827094610002,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2021,123.79031318569,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2021,68.249732501057,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2021,147.11596081843,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2021,7.5076080880752,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2021,0.11148977866105,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2021,1.7484778899984,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2021,8.773934261574,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2021,18.441146908565,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2021,7.1968930339073,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2021,23.053815935946,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2022,9.8472517291036,sector,CO2,Agriculture
+EU27,EU27,2022,446.74494485563,sector,CO2,Buildings
+EU27,EU27,2022,154.03450672191,sector,CO2,Fuel Production
+EU27,EU27,2022,355.94456080481,sector,CO2,Industrial Combustion
+EU27,EU27,2022,807.07826982375,sector,CO2,Power Industry
+EU27,EU27,2022,188.05202858118,sector,CO2,Processes
+EU27,EU27,2022,780.89168963117,sector,CO2,Transport
+EU27,EU27,2022,2.2533070490882,sector,CO2,Waste
+EU27,EU27,2022,238.42354000446,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2022,17.219769357957,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2022,56.583815782915,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2022,1.3114200651764,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2022,2.2884254337871,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2022,0.72546895743216,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2022,1.6180709094769,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2022,123.78663102852,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2022,65.265787806198,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2022,142.57030355016,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2022,7.3360212654396,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2022,0.11770124807125,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2022,1.7204501981467,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2022,9.1048784376353,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2022,17.430058035947,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2022,7.3018850005321,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2022,22.966235488643,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2023,9.8772614900734,sector,CO2,Agriculture
+EU27,EU27,2023,414.45429524807,sector,CO2,Buildings
+EU27,EU27,2023,146.52004624148,sector,CO2,Fuel Production
+EU27,EU27,2023,332.29428336129,sector,CO2,Industrial Combustion
+EU27,EU27,2023,648.03043714746,sector,CO2,Power Industry
+EU27,EU27,2023,177.76573319336,sector,CO2,Processes
+EU27,EU27,2023,773.99691915597,sector,CO2,Transport
+EU27,EU27,2023,2.0951454432621,sector,CO2,Waste
+EU27,EU27,2023,235.16338107173,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2023,16.146316048026,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2023,53.633010002797,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2023,1.2817466873895,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2023,2.109000596499,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2023,0.70310965448013,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2023,1.6337175178009,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2023,122.49409346438,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2023,61.415498852542,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2023,142.33719700396,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2023,7.025539387725,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2023,0.11002359779036,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2023,1.6772011806032,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2023,7.3876505509976,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2023,16.446107135664,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2023,7.2222680818422,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2023,23.008761056195,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2024,9.8111850496531,sector,CO2,Agriculture
+EU27,EU27,2024,408.63695035887,sector,CO2,Buildings
+EU27,EU27,2024,148.71068398793,sector,CO2,Fuel Production
+EU27,EU27,2024,325.55304267342,sector,CO2,Industrial Combustion
+EU27,EU27,2024,591.03117633656,sector,CO2,Power Industry
+EU27,EU27,2024,176.47042203562,sector,CO2,Processes
+EU27,EU27,2024,785.32622195675,sector,CO2,Transport
+EU27,EU27,2024,2.0905809851302,sector,CO2,Waste
+EU27,EU27,2024,231.01516769867,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2024,15.453658146589,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2024,52.371800175963,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2024,1.2928316589506,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2024,2.074586413252,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2024,0.69504724123639,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2024,1.6585217857722,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2024,122.15201938127,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2024,58.670282424106,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2024,140.04460957005,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2024,6.7372365782502,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2024,0.10753446754204,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2024,1.6867027816475,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2024,6.6225733711793,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2024,16.06515344366,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2024,7.3118316762578,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2024,23.079395372665,sector,GWP_100_AR5_N2O,Waste
+EU27,EU27,2025,9.8423775376754,sector,CO2,Agriculture
+EU27,EU27,2025,413.06193083769,sector,CO2,Buildings
+EU27,EU27,2025,148.12891310363,sector,CO2,Fuel Production
+EU27,EU27,2025,327.08010598748,sector,CO2,Industrial Combustion
+EU27,EU27,2025,590.8825736378,sector,CO2,Power Industry
+EU27,EU27,2025,175.35218496137,sector,CO2,Processes
+EU27,EU27,2025,778.13623175017,sector,CO2,Transport
+EU27,EU27,2025,2.0263461742382,sector,CO2,Waste
+EU27,EU27,2025,230.76151000435,sector,GWP_100_AR5_CH4,Agriculture
+EU27,EU27,2025,15.427122575998,sector,GWP_100_AR5_CH4,Buildings
+EU27,EU27,2025,51.969538218883,sector,GWP_100_AR5_CH4,Fuel Production
+EU27,EU27,2025,1.2879988615597,sector,GWP_100_AR5_CH4,Industrial Combustion
+EU27,EU27,2025,2.0943938855998,sector,GWP_100_AR5_CH4,Power Industry
+EU27,EU27,2025,0.69616191645506,sector,GWP_100_AR5_CH4,Processes
+EU27,EU27,2025,1.6336558906612,sector,GWP_100_AR5_CH4,Transport
+EU27,EU27,2025,119.7327940248,sector,GWP_100_AR5_CH4,Waste
+EU27,EU27,2025,57.663513310512,sector,GWP_100_AR5_F-gases,Processes
+EU27,EU27,2025,140.16349888677,sector,GWP_100_AR5_N2O,Agriculture
+EU27,EU27,2025,6.7096274923463,sector,GWP_100_AR5_N2O,Buildings
+EU27,EU27,2025,0.10840522074969,sector,GWP_100_AR5_N2O,Fuel Production
+EU27,EU27,2025,1.6780643285942,sector,GWP_100_AR5_N2O,Industrial Combustion
+EU27,EU27,2025,6.4872216557626,sector,GWP_100_AR5_N2O,Power Industry
+EU27,EU27,2025,15.877983843095,sector,GWP_100_AR5_N2O,Processes
+EU27,EU27,2025,7.2615206153652,sector,GWP_100_AR5_N2O,Transport
+EU27,EU27,2025,23.089956724341,sector,GWP_100_AR5_N2O,Waste
+SEA,International Shipping,1970,353.84323199492,sector,CO2,Transport
+SEA,International Shipping,1970,8.1180261405261,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1970,0.90087642848437,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1970,10.567863555928,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1970,2.4360434035547,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1971,353.84323199492,sector,CO2,Transport
+SEA,International Shipping,1971,8.1180261405261,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1971,0.90087642848437,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1971,10.567863555928,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1971,2.4360434035547,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1972,370.40639517236,sector,CO2,Transport
+SEA,International Shipping,1972,8.8418327296899,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1972,0.94321352734765,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1972,11.064505030472,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1972,2.5505263749707,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1973,391.41927834951,sector,CO2,Transport
+SEA,International Shipping,1973,10.025681680128,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1973,0.99667924302734,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1973,11.691692754455,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1973,2.6951020347168,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1974,365.74070078418,sector,CO2,Transport
+SEA,International Shipping,1974,9.9353800449441,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1974,0.93100318308594,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1974,10.921270044511,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1974,2.5175086073242,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1975,341.02924498278,sector,CO2,Transport
+SEA,International Shipping,1975,9.1837449905718,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1975,0.86843633202368,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1975,10.186001442758,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1975,2.3483227345538,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1976,351.66510222873,sector,CO2,Transport
+SEA,International Shipping,1976,10.317886438762,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1976,0.89586923428964,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1976,10.507454427326,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1976,2.4225035417016,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1977,351.47604177009,sector,CO2,Transport
+SEA,International Shipping,1977,10.448925791042,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1977,0.89573404367245,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1977,10.50736366535,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1977,2.4221379752367,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1978,353.60566709418,sector,CO2,Transport
+SEA,International Shipping,1978,10.025690454436,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1978,0.90173036371568,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1978,10.576913433038,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1978,2.4383525141291,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1979,364.34435690211,sector,CO2,Transport
+SEA,International Shipping,1979,10.861528093361,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1979,0.92857182659302,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1979,10.891253066734,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1979,2.5109340208893,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1980,356.79754553534,sector,CO2,Transport
+SEA,International Shipping,1980,9.6856915411599,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1980,0.90900231109933,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1980,10.661690969948,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1980,2.4580164534829,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1981,331.68630295036,sector,CO2,Transport
+SEA,International Shipping,1981,8.6080236791607,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1981,0.84552858410997,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1981,9.916839477163,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1981,2.2863783141749,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1982,298.94155201824,sector,CO2,Transport
+SEA,International Shipping,1982,7.6157120115756,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1982,0.7625454914238,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1982,8.9433945315662,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1982,2.0619852574215,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1983,279.95494599805,sector,CO2,Transport
+SEA,International Shipping,1983,7.3396342387806,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1983,0.71408743010938,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1983,8.3760049417855,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1983,1.9309507038672,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1984,283.74264808086,sector,CO2,Transport
+SEA,International Shipping,1984,7.4466193416768,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1984,0.72382924567187,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1984,8.4909862165471,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1984,1.9572933683984,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1985,306.27559151143,sector,CO2,Transport
+SEA,International Shipping,1985,7.0030611714417,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1985,0.78101156216016,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1985,9.1617712061505,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1985,2.111919020127,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1986,325.70276905878,sector,CO2,Transport
+SEA,International Shipping,1986,7.601645009178,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1986,0.83070756543958,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1986,9.7447370412428,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1986,2.2463010698111,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1987,322.25674755002,sector,CO2,Transport
+SEA,International Shipping,1987,7.6430128607655,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1987,0.82206517129745,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1987,9.6433561806426,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1987,2.2229313305492,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1988,337.88800823144,sector,CO2,Transport
+SEA,International Shipping,1988,8.366347160241,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1988,0.86161992803906,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1988,10.107358993445,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1988,2.3298906217383,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1989,337.81958852736,sector,CO2,Transport
+SEA,International Shipping,1989,8.6260138703166,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1989,0.8614241747662,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1989,10.105062985347,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1989,2.3293612889086,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1990,371.39574701673,sector,CO2,Transport
+SEA,International Shipping,1990,9.4321825855533,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1990,0.94909149934759,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1990,11.1334570967,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1990,2.566420891093,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1991,386.16186713313,sector,CO2,Transport
+SEA,International Shipping,1991,9.4598714023617,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1991,0.98594286962885,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1991,11.565747849886,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1991,2.6660700046086,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1992,415.02887114176,sector,CO2,Transport
+SEA,International Shipping,1992,9.6803703083187,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1992,1.0594733116205,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1992,12.428307110257,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1992,2.8649023222392,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1993,402.21584709751,sector,CO2,Transport
+SEA,International Shipping,1993,9.9887978890188,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1993,1.0266783376065,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1993,12.043072697907,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1993,2.7762220353645,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1994,414.55782321678,sector,CO2,Transport
+SEA,International Shipping,1994,10.091242526338,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1994,1.05829959724,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1994,12.413131061471,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1994,2.8617285027407,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1995,429.9329909665,sector,CO2,Transport
+SEA,International Shipping,1995,10.363384704015,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1995,1.0975704877432,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1995,12.874067698314,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1995,2.9679201964485,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1996,438.54098665888,sector,CO2,Transport
+SEA,International Shipping,1996,10.723238166175,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1996,1.1198067252917,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1996,13.134209274445,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1996,3.0280487979828,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1997,449.4561283502,sector,CO2,Transport
+SEA,International Shipping,1997,11.252428151862,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1997,1.1476896956875,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1997,13.461910075249,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1997,3.1034466260937,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1998,463.14947506707,sector,CO2,Transport
+SEA,International Shipping,1998,11.715428003339,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1998,1.1828485040928,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1998,13.874345950801,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1998,3.1985189141284,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,1999,490.75761049103,sector,CO2,Transport
+SEA,International Shipping,1999,11.299062140056,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,1999,1.2528167833751,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,1999,14.696173954864,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,1999,3.3877188530041,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2000,503.40763023954,sector,CO2,Transport
+SEA,International Shipping,2000,12.089440991176,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2000,1.2846788353608,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2000,15.070112889685,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2000,3.4738764425574,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2001,477.2418901623,sector,CO2,Transport
+SEA,International Shipping,2001,12.091086648051,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2001,1.2184227097109,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2001,14.292885987385,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2001,3.2947144701367,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2002,495.49630979406,sector,CO2,Transport
+SEA,International Shipping,2002,11.748254762795,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2002,1.2646290510701,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2002,14.834915453591,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2002,3.419660189118,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2003,503.38217047533,sector,CO2,Transport
+SEA,International Shipping,2003,12.590712111108,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2003,1.2840758414565,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2003,15.063038294613,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2003,3.4722458978162,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2004,553.23403844617,sector,CO2,Transport
+SEA,International Shipping,2004,13.475926723822,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2004,1.4111594187646,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2004,16.553809725959,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2004,3.8158902650269,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2005,572.7259504197,sector,CO2,Transport
+SEA,International Shipping,2005,13.634463630493,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2005,1.4597023082105,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2005,17.123157822664,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2005,3.9471542007733,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2006,609.97985662882,sector,CO2,Transport
+SEA,International Shipping,2006,13.668713575567,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2006,1.5544278308497,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2006,18.233981602871,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2006,4.2032997466853,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2007,645.819716804,sector,CO2,Transport
+SEA,International Shipping,2007,13.63911793153,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2007,1.6449767754347,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2007,19.296088286543,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2007,4.4481514845938,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2008,646.92797099123,sector,CO2,Transport
+SEA,International Shipping,2008,13.601626803298,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2008,1.6465851553795,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2008,19.315045756557,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2008,4.4525006752608,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2009,615.55255636452,sector,CO2,Transport
+SEA,International Shipping,2009,12.872560182199,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2009,1.5680067099076,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2009,18.393178402983,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2009,4.2400181441379,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2010,662.10715069721,sector,CO2,Transport
+SEA,International Shipping,2010,13.049148068496,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2010,1.68686922378,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2010,19.787151470856,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2010,4.5614320847113,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2011,663.64845444783,sector,CO2,Transport
+SEA,International Shipping,2011,13.129361466629,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2011,1.6903879800829,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2011,19.828524226865,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2011,4.5709470889996,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2012,618.4481087748,sector,CO2,Transport
+SEA,International Shipping,2012,13.292958946096,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2012,1.5739379210386,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2012,18.462680643529,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2012,4.2560566232165,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2013,616.02307648063,sector,CO2,Transport
+SEA,International Shipping,2013,13.088212408229,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2013,1.5680655639057,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2013,18.394023421518,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2013,4.2401766421488,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2014,636.75764012261,sector,CO2,Transport
+SEA,International Shipping,2014,12.740783990188,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2014,1.624956154688,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2014,19.061881252053,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2014,4.3940130137195,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2015,660.33898166114,sector,CO2,Transport
+SEA,International Shipping,2015,13.322661087162,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2015,1.6886342584598,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2015,19.811526325858,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2015,4.5661227848749,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2016,680.08817966965,sector,CO2,Transport
+SEA,International Shipping,2016,13.984808188343,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2016,1.7377335144343,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2016,20.387742719459,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2016,4.6988725096758,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2017,707.10525860049,sector,CO2,Transport
+SEA,International Shipping,2017,13.91793949092,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2017,1.8070879727874,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2017,21.202038726334,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2017,4.886350954753,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2018,709.97414628526,sector,CO2,Transport
+SEA,International Shipping,2018,14.205554900854,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2018,1.8137939610149,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2018,21.282283784667,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2018,4.9044088106103,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2019,692.95706860455,sector,CO2,Transport
+SEA,International Shipping,2019,14.106431990525,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2019,1.7728629432863,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2019,20.794759352166,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2019,4.7935332333907,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2020,635.74236308363,sector,CO2,Transport
+SEA,International Shipping,2020,13.024924556908,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2020,1.6271996484426,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2020,19.096672468251,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2020,4.3995019110552,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2021,657.92185807049,sector,CO2,Transport
+SEA,International Shipping,2021,12.732769061568,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2021,1.6794634223762,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2021,19.733210176698,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2021,4.5402255574771,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2022,660.60039700522,sector,CO2,Transport
+SEA,International Shipping,2022,13.532789829161,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2022,1.6898856113894,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2022,19.855396121586,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2022,4.5683673934966,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2023,660.48419758724,sector,CO2,Transport
+SEA,International Shipping,2023,13.730241034622,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2023,1.6859920974203,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2023,19.829130283916,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2023,4.5570377239539,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2024,698.04727991448,sector,CO2,Transport
+SEA,International Shipping,2024,13.834271450029,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2024,1.7818779039087,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2024,20.956853333239,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2024,4.8162057461693,sector,GWP_100_AR5_N2O,Transport
+SEA,International Shipping,2025,712.00822551276,sector,CO2,Transport
+SEA,International Shipping,2025,13.779839341929,sector,GWP_100_AR5_CH4,Fuel Production
+SEA,International Shipping,2025,1.8175154619868,sector,GWP_100_AR5_CH4,Transport
+SEA,International Shipping,2025,21.375990399903,sector,GWP_100_AR5_N2O,Processes
+SEA,International Shipping,2025,4.9125298610926,sector,GWP_100_AR5_N2O,Transport

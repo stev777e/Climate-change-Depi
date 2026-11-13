@@ -15,7 +15,6 @@ The Climate Change Analysis & Visualization project aims to analyze historical c
 
 * Ahmed Mahmoud Ahmed
 
-* Nagah Omar Nagah 
 
 ## Instructor
 
